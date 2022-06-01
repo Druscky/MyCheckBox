@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones"> <!-- Aquí se le llama a la Array como se quiera, Países, Ciudades, etc. -->
+        <item>Opción1</item>
+        <item>Opción2</item>
+        <item>Opción3</item>
+        <item>Opción4</item>
+        <item>Opción5</item>
+    </string-array>
+</resources>
